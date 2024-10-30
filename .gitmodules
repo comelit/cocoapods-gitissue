@@ -1,0 +1,3 @@
+[submodule "cpplib"]
+	path = cpplib
+	url = git@github.com:comelit/cocoapods-gitissue-cpplib.git
